@@ -9,7 +9,7 @@
 }
 
 /*STYLES MAIN*/
-.content-main{
+.wrapper{
     display: flex;
     block-size: 900px;
     background-color: rgb(255, 255, 255);
