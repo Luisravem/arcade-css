@@ -9,7 +9,7 @@
 }
 
 /*STYLES MAIN*/
-.wrapper{
+.content-main{
     display: flex;
     block-size: 900px;
     background-color: rgb(255, 255, 255);
@@ -19,7 +19,7 @@
 
 }
 /*STYLE PRODUCT*/
-.content-product{
+.wrapper{
     inline-size: 300px;
     block-size: 500px;
     display: flex;
